@@ -1,0 +1,25 @@
+{
+  "name": "clci",
+  "version": "1.0.0",
+  "description": "testing out gke",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yowai-hito/gke_cicl_test.git"
+  },
+  "keywords": [
+    "gke"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yowai-hito/gke_cicl_test/issues"
+  },
+  "homepage": "https://github.com/yowai-hito/gke_cicl_test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
