@@ -9,13 +9,19 @@ Setup GKE workflow environment.
 ## Step 2:
 Generate service account key,
 
+![alt text](https://github.com/yowai-hito/gke_cicl_test/blob/main/img/service account.PNG)
+
 and set the key and project id as secrets.
+
+![alt text](https://github.com/yowai-hito/gke_cicl_test/blob/main/img/repo secrets.PNG)
 
 ## Step 3:
 Initialize Node environment to create package.json and prepare dependencies required.
 
 npm init
 npm install express --save
+
+![alt text](https://github.com/yowai-hito/gke_cicl_test/blob/main/img/Node%20Env.PNG)
 
 ## Step 4:
 
