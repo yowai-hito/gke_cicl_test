@@ -25,7 +25,19 @@ npm install express --save
 
 ## Step 4:
 
-Prepare the Dockerfile to spin the container for the app
+Prepare the apis that are going to be hosted in the container.
+
+![alt text](https://github.com/yowai-hito/gke_cicl_test/blob/main/img/Api%20code.PNG)
 
 ## Step 5:
+
+Prepare the Dockerfile to spin the container for the app
+
+![alt text](https://github.com/yowai-hito/gke_cicl_test/blob/main/img/Dockerfile.PNG)
+
+## Step 6:
+
+---In Progress---
+
+Prepare Kustomization.yaml required for deployment
 
