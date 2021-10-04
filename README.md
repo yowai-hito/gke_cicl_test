@@ -9,11 +9,11 @@ Setup GKE workflow environment.
 ## Step 2:
 Generate service account key,
 
-![alt text](https://github.com/yowai-hito/gke_cicl_test/blob/main/img/service account.PNG)
+![alt text](https://github.com/yowai-hito/gke_cicl_test/blob/main/img/service%20account.PNG)
 
 and set the key and project id as secrets.
 
-![alt text](https://github.com/yowai-hito/gke_cicl_test/blob/main/img/repo secrets.PNG)
+![alt text](https://github.com/yowai-hito/gke_cicl_test/blob/main/img/repo%20secrets.PNG)
 
 ## Step 3:
 Initialize Node environment to create package.json and prepare dependencies required.
