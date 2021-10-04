@@ -1,4 +1,0 @@
-   commonLabels:
-     app: Test
-   resources:
-   - deployment.yml
