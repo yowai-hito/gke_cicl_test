@@ -37,7 +37,7 @@ Prepare the Dockerfile to spin the container for the app
 
 ![alt text](https://github.com/yowai-hito/gke_cicl_test/blob/main/img/Dockerfile.PNG)
 
-Test on Cloud Run (https://gke-cicl-test-dod6alxdda-as.a.run.app/)
+[Test on Cloud Run](https://gke-cicl-test-dod6alxdda-as.a.run.app/)
 
 ## Step 6:
 
