@@ -39,6 +39,8 @@ Prepare the Dockerfile to spin the container for the app
 
 [Test on Cloud Run](https://gke-cicl-test-dod6alxdda-as.a.run.app/)
 
+[Hi!](https://gke-cicl-test-dod6alxdda-as.a.run.app/Hello)
+
 ## Step 6:
 
 ---In Progress---
