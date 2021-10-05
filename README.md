@@ -18,8 +18,10 @@ and set the key and project id as secrets.
 ## Step 3:
 Initialize Node environment to create package.json and prepare dependencies required.
 
+```javascript
 npm init
 npm install express --save
+```
 
 ![alt text](https://github.com/yowai-hito/gke_cicl_test/blob/main/img/Node%20Env.PNG)
 
